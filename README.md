@@ -29,6 +29,11 @@ $ cd gofinaces
 # Install dependencies
 $ yarn
 
-# Run the project - terminal 1
+# Run the project
 $ expo start
+
+`or`
+
+$ yarn start
+$ yarn android | $ yarn ios
 ```
