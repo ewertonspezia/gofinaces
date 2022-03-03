@@ -32,7 +32,7 @@ $ yarn
 # Run the project
 $ expo start
 
-`or`
+or
 
 $ yarn start
 $ yarn android | $ yarn ios
