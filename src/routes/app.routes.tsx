@@ -38,6 +38,7 @@ export function AppRoutes(){
                     )
                 }}
             />
+            
             <Screen 
                 name="Cadastrar"
                 component={Register}
@@ -51,6 +52,7 @@ export function AppRoutes(){
                     )
                 }}
             />
+
             <Screen 
                 name="Resumo"
                 component={Resume}
