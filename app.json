@@ -7,6 +7,12 @@
     "schema": "gofinances",
     "icon": "./assets/logo.png",
     "version": "1.0.0",
+    "privacy": "public",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#5636D3"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
